@@ -1,2 +1,2 @@
 # Cores-Celia
-- [Visite o site](https://K-Kimi.github.io/seu-repo)
+- [Visite o site]([https://k-kimi.github.io/Cores-Celia/]
